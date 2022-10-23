@@ -18,9 +18,9 @@ Full Name  : Hiu (Bob) Pang Tang
 Student ID#:
 Oracle ID  :
 
-Full Name  : Andrew Ma
-Student ID#:
-Oracle ID  :
+Full Name  : Tian (Andrew) Ma
+Student ID#: 100691211
+Oracle ID  : A18
 
 Full Name  : Ron Austin Saguros
 Student ID#: 111045225
