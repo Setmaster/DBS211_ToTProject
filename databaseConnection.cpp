@@ -78,7 +78,7 @@ int main(void) {
 		env = Environment::createEnvironment(Environment::DEFAULT);
 		conn = env->createConnection(user, pass, constr);
 
-		/* Creating a Statement */
+		/* Creating a Statement for Report 1*/
 		stmt = conn->createStatement(
 			"SELECT		e.employeenumber," 
 			"			e.firstname,"
@@ -111,7 +111,7 @@ int main(void) {
 			cout << endl;
 		}
 
-		/* Creating another Statement */
+		/* Creating a Statement for Report 2*/
 		stmt = conn->createStatement(
 			"SELECT	DISTINCT	m.employeenumber,"
 			"					m.firstname,"
